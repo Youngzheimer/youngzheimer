@@ -4,4 +4,4 @@
 - ENTP
 - not a gay
 ## link
-- [my site](youngzheimer.com)
+- [my site](https://youngzheimer.com/)
